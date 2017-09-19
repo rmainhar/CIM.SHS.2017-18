@@ -1,6 +1,8 @@
 %
+(Program Name       : )
 (Programmed By      : )
 (Date               : #/#/#)
+(Machine            : )
 (Tools Used         : )
 (Estimated Run Time : )
 
